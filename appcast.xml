@@ -3,6 +3,22 @@
     <channel>
         <title>Flip</title>
         <item>
+            <title>0.24.4</title>
+            <pubDate>Fri, 13 Nov 2026 04:44:07 +0800</pubDate>
+            <link>https://gamepunk.github.io/Flip/</link>
+            <sparkle:version>20261113.68</sparkle:version>
+            <sparkle:shortVersionString>0.24.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://gamepunk.github.io/Flip/updates/Flip-0.24.4.zip" length="2628751" type="application/octet-stream" sparkle:edSignature="0NcOK9CewMcrSwDvcIneLuTorprulgU7eBdeqQJ5u12AYNycDCLVbheexO9bXeh/TmyXASsUyF0qoY0/pf/nDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://gamepunk.github.io/Flip/updates/Flip20261113.68-20261113.67.delta" sparkle:deltaFrom="20261113.67" length="107250" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="b3+fD3cjanz1yq/O1QSy1jpD3Lj6M3pZxLRuqWO4yR4+avlIbIXiLRnMZEdCJWAnYirkdEibFvl+l8zdjonfAg=="/>
+                <enclosure url="https://gamepunk.github.io/Flip/updates/Flip20261113.68-20261113.66.delta" sparkle:deltaFrom="20261113.66" length="107546" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rcWHZqZunk1B0Es5MjNeuqhhvvM+gBc0TVgOw5gSrK36y6iN2+Pbfu5FH65xANbT5SDi/iYZa2uRfW4Zd0Z7DA=="/>
+                <enclosure url="https://gamepunk.github.io/Flip/updates/Flip20261113.68-20261113.65.delta" sparkle:deltaFrom="20261113.65" length="107378" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="M50Wxhyh3iISoq675UCcPL3iAooCrAgqjtQTDUirJOmVzNYsOffC4WdzBEYNH+Qh7+lnra6znnz45nhYqyRjBA=="/>
+                <enclosure url="https://gamepunk.github.io/Flip/updates/Flip20261113.68-20261113.64.delta" sparkle:deltaFrom="20261113.64" length="143706" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YFRGMB+ImeBS/fUj9INNCEHni13MH+o5MwxKxDD4f9WPXN2bal7mgbGTGrNc6p3NzU4DajS4zbaPkpX+o/yLCg=="/>
+                <enclosure url="https://gamepunk.github.io/Flip/updates/Flip20261113.68-20261113.63.delta" sparkle:deltaFrom="20261113.63" length="203710" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nWmeWsWGxwfMZDQQwcFpq5r3Ag81lAuv05o5vyS4nlyFMP2VlacoaAgcF5Rv6uioHa4ruPzeUp/rpQVaY7rgDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.24.3</title>
             <pubDate>Fri, 13 Nov 2026 04:41:36 +0800</pubDate>
             <link>https://gamepunk.github.io/Flip/</link>
@@ -32,22 +48,6 @@
                 <enclosure url="https://gamepunk.github.io/Flip/updates/Flip20261113.66-20261113.63.delta" sparkle:deltaFrom="20261113.63" length="199118" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="N6h5A1bjUrTcdxdF32QiKVzQ+sSA9wWmCy+o0firBk/i1aKeOcsQaPgNrv68KeeyDQ7RNjA4adg0yZUuDlVdBQ=="/>
                 <enclosure url="https://gamepunk.github.io/Flip/updates/Flip20261113.66-20261113.62.delta" sparkle:deltaFrom="20261113.62" length="216330" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YPetfYN5zissHAMxrrug3sacN1PpyyuPJGbWQkxqHjGCgau0FPJNt+aYORZXaF2zfti3+BbluDqhvO+I+5YbDg=="/>
                 <enclosure url="https://gamepunk.github.io/Flip/updates/Flip20261113.66-20261113.61.delta" sparkle:deltaFrom="20261113.61" length="214758" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="M0sEoFqDlncGRKqNqreHKNcjHXRqLZpcAWj1pR/q2tpI0Qaf+Y1kmpNvgMklAgVcSzoiTdPbYNDVKQ6HSiz/BQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.24.1</title>
-            <pubDate>Fri, 13 Nov 2026 04:37:41 +0800</pubDate>
-            <link>https://gamepunk.github.io/Flip/</link>
-            <sparkle:version>20261113.65</sparkle:version>
-            <sparkle:shortVersionString>0.24.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://gamepunk.github.io/Flip/updates/Flip-0.24.1.zip" length="2631135" type="application/octet-stream" sparkle:edSignature="E806UVP7M6cButdIEzgRSJ+Kca/wvkvt92vuTrbbavjMqVRGEIFGYIj5AJvwcrKLBfRNcO2gPzr5YndJY2CaAw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://gamepunk.github.io/Flip/updates/Flip20261113.65-20261113.64.delta" sparkle:deltaFrom="20261113.64" length="130678" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jmdmQgtPGuzUDTcM9jmabh3MQBoWlGaPEF3CoiBRpVOcc+cmcb0jnQiSfCNVp+CHkFjKpeE542X96NP9wUCUAQ=="/>
-                <enclosure url="https://gamepunk.github.io/Flip/updates/Flip20261113.65-20261113.63.delta" sparkle:deltaFrom="20261113.63" length="198950" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="lTohRJm4nwQnvuchYvkERrrqEiQtIztLK3I8jLXEM8pseQK3xU9Ac3qY5aDFRz2QBA39pyhEa7FjuHcnpBo0Cw=="/>
-                <enclosure url="https://gamepunk.github.io/Flip/updates/Flip20261113.65-20261113.62.delta" sparkle:deltaFrom="20261113.62" length="216846" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TJY3gvtGz0zjqEIcx/HDBg0rBnN43nhAwXLhbQCFn/X6abjX5S8imYLvYpCwNrg4jOx8buZE0Zq01kBltDXjDA=="/>
-                <enclosure url="https://gamepunk.github.io/Flip/updates/Flip20261113.65-20261113.61.delta" sparkle:deltaFrom="20261113.61" length="214466" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FA8+zqwAB2Rypxnze0UTpIm4x7O1zUWg8v4rNC0wiKhemISVZn1jSRMRYTe3rgEVB53h9hJNPPwf6OFxBDKqDg=="/>
-                <enclosure url="https://gamepunk.github.io/Flip/updates/Flip20261113.65-20261113.60.delta" sparkle:deltaFrom="20261113.60" length="214854" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ih5IQnDZMVRKOdjVsnsluLa/MKkvCUziDMfPxGcWKQGrH+D1Yy3eQfsCtL3wdiQwCUbuL9bxzEicH5Ve78b9CQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
